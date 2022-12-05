@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tozeleal
 - 👀 I’m interested in Tech, Coding and VideoGames
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on VideoGame Project
+- 💞️ I’m looking to collaborate on VideoGame Project has a Backend/Logic developer
 - 📫 How to reach me @tozeleal on twitter
 
 <!---
